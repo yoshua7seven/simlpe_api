@@ -1,0 +1,17 @@
+[
+	{
+		"first_name": "Miguel",
+		"last_name": "Malfoy",
+		"avatar":"MigMal.jpeg",
+	},
+	{
+		"first_name": "Draco",
+		"last_name": "Potter",
+		"avatar":"DraPot.jpeg",
+	},
+	{
+		"first_name": "Huamany",
+		"last_name": "Tucpac",
+		"avatar":"HuaTuc.jpeg",
+	}
+]
