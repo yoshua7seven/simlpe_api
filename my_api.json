@@ -2,16 +2,19 @@
 	{
 		"first_name": "Miguel",
 		"last_name": "Malfoy",
-		"avatar":"MigMal.jpeg"
+		"avatar":"MigMal.jpeg",
+		"email":"miguelmalfoy@pipemail.com"
 	},
 	{
 		"first_name": "Draco",
 		"last_name": "Potter",
-		"avatar":"DraPot.jpeg"
+		"avatar":"DraPot.jpeg",
+		"email":"dracoputer@pipemail.com"
 	},
 	{
 		"first_name": "Huamany",
 		"last_name": "Tucpac",
-		"avatar":"HuaTuc.jpeg"
+		"avatar":"HuaTuc.jpeg",
+		"email":"huapac@pipemail.com"
 	}
 ]
